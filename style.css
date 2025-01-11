@@ -444,6 +444,7 @@ tbody>tr>td {
     font-weight: 400;
     color: rgba(14, 14, 14, 0.3);
     text-align: center;
+    cursor: pointer;
 }
 
 .other_amount:focus {
